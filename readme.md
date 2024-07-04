@@ -26,14 +26,11 @@ This project is aimed at creating a backend system for Khatabook, a digital ledg
 
 ## Technologies Used
 
+- ejs
 - Node.js
 - Express.js
 - MongoDB
 - JWT for authentication
-
-## Contributing
-
-Contributions are welcome! Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
 ## License
 
